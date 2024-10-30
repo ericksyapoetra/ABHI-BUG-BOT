@@ -2,26 +2,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "919074692450"
-global.ownername = "Abhishek Suresh"
-global.ytname = "YT: Comedy Melody CH"
-global.socialm = "GitHub: DGXeon"
-global.location = "India, Kerala, Idukki"
+global.ownernomer = "6289603067405"
+global.ownername = "ERFLASHER"
+global.ytname = "YT: BELOM PUNYA"
+global.socialm = "GitHub: RAHASIA"
+global.location = "INDONESIA"
 
-global.ownernumber = '919074692450'  //creator number
-global.ownername = 'Abhishek Suresh' //owner name
-global.botname = '𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
+global.ownernumber = '6289603067405'  //creator number
+global.ownername = 'ERFLASHER' //owner name
+global.botname = 'ER-BOT' //name of the bot
 
 //sticker details
-global.packname = '🎯𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃'
-global.author = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺 𝚂𝚄𝚁𝙴𝚂𝙷🍀'
+global.packname = '🎯ER-BOT'
+global.author = 'ERFLASHER'
 
 //console view/theme
 global.themeemoji = '🎯'
-global.wm = "©𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃"
+global.wm = "©ERFLASHER"
 
 //theme link
-global.link = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
+global.link = 'https://chat.whatsapp.com/kosong'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -44,14 +44,14 @@ global.typemenu = 'v2'
 
 //reply messages
 global.mess = {
-    done: 'Done✅',
+    done: 'KELAR BOS✅',
     prem: 'This feature can be used by premium user only',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
     owner: 'This feature can be used by owner only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
-    wait: 'Please Wait',    
+    wait: 'BENTAR',    
     error: 'Error❌',
 }
 
